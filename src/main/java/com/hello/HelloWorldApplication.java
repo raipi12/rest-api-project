@@ -1,4 +1,4 @@
-package hello.world;
+package com.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -15,6 +15,5 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
         return application.sources(HelloWorldApplication.class);
-
     }
 }

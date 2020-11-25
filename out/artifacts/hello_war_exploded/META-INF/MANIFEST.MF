@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
 Built-By: dumitru
 Build-Jdk: 1.8.0_275
-Implementation-Title: hello-world
+Implementation-Title: com-world
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: hello-world
+Implementation-Vendor-Id: com-world
 Main-Class: ${start-class}
 

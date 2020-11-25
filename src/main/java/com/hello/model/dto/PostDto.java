@@ -14,6 +14,8 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class PostDto {
 
+//    I can to use 'ModelMapper' dependence for that
+
     private Long id;
 
     private String title;
